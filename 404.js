@@ -1,0 +1,1 @@
+(()=>{"use strict";window.sessionStorage.setItem("requestedUrl",window.location.href);var e=window.document.getElementsByTagName("base")[0].href,t=window.document.createElement("meta");t.httpEquiv="refresh",t.content='0; URL="'.concat(e,'"'),window.document.head.appendChild(t)})();
